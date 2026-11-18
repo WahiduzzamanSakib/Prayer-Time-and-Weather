@@ -2,7 +2,10 @@
 
 A modern, production-ready, config-driven web dashboard displaying accurate Islamic prayer times and live weather forecasts with smooth animations.
 
-![Dashboard Preview](https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sun.svg)
+---
+## Live Link
+
+**Link:** https://prayer-weathear.netlify.app/
 
 ---
 
